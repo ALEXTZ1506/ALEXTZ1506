@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<!--
-**ALEXTZ69/ALEXTZ69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I am ALEXTZ69, a passionate developer with a diverse skill set in various programming languages, frameworks, and tools. Welcome to my GitHub profile!
+
+### About Me
+- 💻 I love coding and building projects.
+- 📚 Continuously learning and exploring new technologies.
+- 🌐 Interested in web development, DevOps, and more.
 
 <h3 align="left">Languages and Tools:</h3>
 <table>

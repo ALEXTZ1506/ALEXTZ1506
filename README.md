@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am ALEXTZ69, a passionate developer with a diverse skill set in various programming languages, frameworks, and tools. Welcome to my GitHub profile!
+I am ALEX, a passionate junior developer with a diverse skill set in various programming languages, frameworks, and tools. Welcome to my GitHub profile!
 
 ### About Me
 - 💻 I love coding and building projects.
@@ -28,17 +28,5 @@ I am ALEXTZ69, a passionate developer with a diverse skill set in various progra
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,azure"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
-    </tr>
-  <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Extra Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,postman,heroku,swagger"/></td>
     </tr>
 </table>

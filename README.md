@@ -11,11 +11,11 @@ I am ALEXTZ69, a passionate developer with a diverse skill set in various progra
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,dart"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,ts,php,dart"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks & Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,django,nodejs,flutter,laravel,flask,express,bootstrap,react,astro"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=angular,django,nodejs,flutter,laravel,flask,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
@@ -31,14 +31,14 @@ I am ALEXTZ69, a passionate developer with a diverse skill set in various progra
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,arch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
     </tr>
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Extra Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,mosquitto,postman,heroku,swagger"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,postman,heroku,swagger"/></td>
     </tr>
 </table>

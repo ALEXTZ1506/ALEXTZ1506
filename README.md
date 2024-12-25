@@ -15,11 +15,11 @@ I am ALEX, a passionate junior developer with a diverse skill set in various pro
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks & Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,django,nodejs,flutter,laravel,flask,express"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=django,nodejs,flutter,laravel"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,microsoftsqlserver,sqlite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlserver,mysql,mongodb,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & CI/CD:</td>
